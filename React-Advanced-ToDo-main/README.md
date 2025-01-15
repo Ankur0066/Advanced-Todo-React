@@ -36,14 +36,4 @@ To run the project locally, follow these steps:
 * ```npm run build``` 🠮 to create a production-level app
 * ```npm run preview``` 🠮 to run the production-level app
 
-## Screenshots & Video
-<div align="center">
-  <h3>Image</h3>
-  <br />
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
-      <img src="#" alt="UI" />
-      <p>UI</p>
-    </div>
-</div>
 
