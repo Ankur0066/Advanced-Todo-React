@@ -42,24 +42,8 @@ To run the project locally, follow these steps:
   <br />
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="margin: 10px;">
-      <img src="https://github.com/aayushmaan-54/React-Advanced-ToDo/assets/146665161/5380a56d-6451-4cdf-b4ad-8bff7f9499d0" alt="UI" />
+      <img src="#" alt="UI" />
       <p>UI</p>
     </div>
 </div>
 
-<div align="center">
-  <h3>Video</h3>
-  <br />
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
-      <video src="https://github.com/aayushmaan-54/React-Advanced-ToDo/assets/146665161/94ae1a93-7622-4803-b811-918693f8f02d"></video>
-      <p>Working Demonstration of Todo Web App</p>
-    </div>
-</div>
-
-## Reach me at 🠮
-<p align="center">
-<a href="https://twitter.com/@aayushmaan54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aayushmaan54" height="30" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/aayushmaan54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@aayushmaan54" height="30" width="40" /></a>
-</p>
